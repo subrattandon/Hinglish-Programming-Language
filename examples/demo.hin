@@ -1,0 +1,16 @@
+# Ye hai demo program
+rakho naam = "Raj"
+rakho umar = 25
+likho "Namaste"
+likho naam
+likho umar
+
+# Numbers
+rakho number1 = 10
+rakho number2 = 20
+likho number1
+likho number2
+
+# Booleans
+rakho flag = sach
+likho flag
